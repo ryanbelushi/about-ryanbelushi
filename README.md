@@ -4,7 +4,7 @@
 
 <p align="left">Sou um profissional de tecnologia com três anos de experiência, especializado em Salesforce e metodologias ágeis como Scrum e Kanban. Estudo Análise e Desenvolvimento de Sistemas, com planos de pós-graduação em Engenharia de Software e futuro em Ciência da Computação. Atualmente, estou aprofundando meus conhecimentos em programação web para atuar como desenvolvedor front-end.</p>
 
-## Tecnologias em que possuo conhecimento
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Tecnologias em que possuo conhecimento
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
