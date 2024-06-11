@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Ryan Belushi 🖐️
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanbelushi2@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-belushi-71351b220/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/belushidev)
+# 📝Sobre mim
 
-## Tecnologias que eu uso no meu dia
+<p align="left">Sou um profissional de tecnologia com três anos de experiência, especializado em Salesforce e metodologias ágeis como Scrum e Kanban. Estudo Análise e Desenvolvimento de Sistemas, com planos de pós-graduação em Engenharia de Software e futuro em Ciência da Computação. Atualmente, estou aprofundando meus conhecimentos em programação web para atuar como desenvolvedor front-end.</p>
+
+## Tecnologias em que possuo conhecimento
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,4 +15,14 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e jogos MMO.
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanbelushi&theme=github_dark" />
+</p>
+
+# 📫 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanbelushi2@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-belushi-71351b220/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/belushidev)
